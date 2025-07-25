@@ -1,7 +1,6 @@
 # Hi, I'm Eugene — a BI & Data Analyst
 
-🎯 I’m a BI & Data Analyst with hands-on experience in **SQL, Tableau, Python (Pandas)**, and **Excel**, specializing in **digital performance and sales analytics**.  
-I work with data on **sales, campaigns, and user behavior** to build dashboards, track KPIs, and deliver insights that help teams make better decisions.
+🎯 I’m a BI & Data Analyst with hands-on experience in **SQL, Tableau, Python (Pandas)**, and **Excel**, specializing in **digital performance and sales analytics**. I work with data on **sales, campaigns, and user behavior** to build dashboards, track KPIs, and deliver insights that help teams make better decisions.
 
 ---
 
@@ -39,4 +38,4 @@ My goal is always to make data **clear, actionable, and valuable** for marketing
 
 📍 Israel  
 📬 eugkoos@gmail.com
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/eugenekos/))
+🔗 [LinkedIn](https://www.linkedin.com/in/eugenekos/))
