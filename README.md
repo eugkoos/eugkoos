@@ -38,5 +38,5 @@ My goal is always to make data **clear, actionable, and valuable** for marketing
 ## 🌍 Location & Contact
 
 📍 Israel  
-📬 eugene.kas@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📬 eugkoos@gmail.com
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/eugenekos/))
