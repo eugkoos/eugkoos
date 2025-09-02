@@ -8,10 +8,10 @@ Background in business, sales, marketing, and audience data. Skilled in SQL, Pyt
 
 ## 🛠️ Key Tools and Skills
 
-• Tools: SQL (PostgreSQL), Python (Pandas), Tableau, Excel, Streamlit
-• Analytics: Performance Analytics, Dashboards & Reporting, Data Visualization, KPI Analysis
-• Marketing & BI: GA4, Meta Ads Manager, Google Ads, UTM Tracking
-• Domain Expertise: Music Industry, Streaming & Audience Insights, Catalog & Royalty Analysis
+• Tools: SQL (PostgreSQL), Python (Pandas), Tableau, Excel, Streamlit  
+• Analytics: Performance Analytics, Dashboards & Reporting, Data Visualization, KPI Analysis  
+• Marketing & BI: GA4, Meta Ads Manager, Google Ads, UTM Tracking  
+• Domain Expertise: Music Industry, Streaming & Audience Insights, Catalog & Royalty Analysis  
 
 ---
 ## 🌍 Location & Contact
