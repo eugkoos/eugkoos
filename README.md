@@ -18,4 +18,4 @@ Background in business, sales, marketing, and audience data. Skilled in SQL, Pyt
 
 📍 Israel  
 📬 eugkoos@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/eugenekos/))
+🔗 [LinkedIn](https://www.linkedin.com/in/eugenekos/)
