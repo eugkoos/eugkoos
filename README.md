@@ -1,4 +1,4 @@
-# Hi, I'm Eugene — a BI & Data Analyst
+# Hi, I'm Eugene — a Data & Marketing Analyst
 
 ## 🧠 About Me
 
