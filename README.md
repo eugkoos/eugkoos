@@ -1,14 +1,8 @@
-# Hi, I'm Eugene — a BI & Performance Analyst
+# Hi, I'm Eugene — a BI & Data & Operations Specialist
 
-## 🛠️ Key Tools and Skills
-
-• Tools: SQL, Python (Pandas), Tableau, Excel, Streamlit  
-• Analytics: Performance Analytics, Dashboards & Reporting, Data Visualization, KPI Analysis  
-• Marketing & BI: Meta Ads Manager, Google Ads, UTM Tracking  
-• Domain Expertise: Music Industry, Streaming & Audience Insights, Catalog & Royalty Analysis  
-
----
-## 🌍 Location & Contact
+Detail-oriented professional with experience across analytics, marketing, and operations.
+Skilled in SQL, Excel, Tableau, and Python for workflow optimization, reporting, and data analysis.
+My background in the music and event industry taught me to plan, organize, and deliver projects under pressure — managing people, data, and timelines across teams. I bring a structured and proactive approach to improving systems, solving problems, and supporting fast-paced digital operations.
 
 📍 Israel  
 📬 eugkoos@gmail.com
