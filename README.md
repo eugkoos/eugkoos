@@ -1,8 +1,11 @@
-# Hi, I'm Eugene — a BI & Data & Operations Specialist
+# Hi, I'm Eugene — a Music Operations & Data Analyst
 
-Detail-oriented professional with experience across analytics, marketing, and operations.
-Skilled in SQL, Excel, Tableau, and Python for workflow optimization, reporting, and data analysis.
-My background in the music and event industry taught me to plan, organize, and deliver projects under pressure — managing people, data, and timelines across teams. I bring a structured and proactive approach to improving systems, solving problems, and supporting fast-paced digital operations.
+Data-driven professional combining experience in music industry operations (labels, royalties, distribution) with BI and data visualization.
+Skilled in SQL, Python (Pandas, Streamlit), Tableau, and Excel for analytics, automation, and reporting.
+I build tools and dashboards that turn complex music data — royalties, metadata, and performance — into clear insights for artists, labels, and teams.
+
+🎧 Key focus areas:
+Music Data · BI Dashboards · Royalty Analytics · Metadata Management · Digital Distribution
 
 📍 Israel  
 📬 eugkoos@gmail.com
