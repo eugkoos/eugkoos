@@ -1,11 +1,16 @@
 # Hi, I'm Eugene — a Digital Marketing Specialist & Data Analyst
 
-Data-driven professional combining experience in music industry operations (labels, royalties, distribution) with BI and data visualization.
-Skilled in SQL, Python (Pandas, Streamlit), Tableau, and Excel for analytics, automation, and reporting.
-I build tools and dashboards that turn complex music data — royalties, metadata, and performance — into clear insights for artists, labels, and teams.
+I'm a data-driven marketer combining hands-on experience in digital advertising, performance analytics, and automation.
+I work at the intersection of media buying, business intelligence, and creative execution — helping artists, startups, and small businesses run smarter campaigns and make decisions backed by data.
 
-🎧 Key focus areas:
-Music Data · BI Dashboards · Royalty Analytics · Metadata Management · Digital Distribution
+I build tools and dashboards using SQL, Python, Streamlit, Tableau, and Excel, turning ad performance, sales, and metadata into clear, actionable insights.
+
+💼 Key focus areas:
+Digital Advertising (Meta, Google, YouTube)
+Media Planning & Audience Strategy
+Royalty & Music Data Analytics
+BI Dashboards & Automation
+Product & Campaign Reporting
 
 📍 Israel  
 📬 eugkoos@gmail.com
