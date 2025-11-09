@@ -1,4 +1,4 @@
-# Hi, I'm Eugene — a Music Operations & Data Analyst
+# Hi, I'm Eugene — a Digital Marketing Specialist & Data Analyst
 
 Data-driven professional combining experience in music industry operations (labels, royalties, distribution) with BI and data visualization.
 Skilled in SQL, Python (Pandas, Streamlit), Tableau, and Excel for analytics, automation, and reporting.
